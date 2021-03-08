@@ -24,7 +24,7 @@ This project provides a CouchDB facility for *LMOS Authenticator and Authorizer*
 
 ## License
 
-MIT
+GNU Affero General Public License v3.0
 
 ## Authors
 
