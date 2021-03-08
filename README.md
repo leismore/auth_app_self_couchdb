@@ -6,7 +6,7 @@ This project provides a CouchDB facility for *LMOS Authenticator and Authorizer*
 
 ## Prerequisites
 
-* CouchDB 2.3.1
+* CouchDB 3.1.1
 
 ## Deployment
 
@@ -21,6 +21,7 @@ This project provides a CouchDB facility for *LMOS Authenticator and Authorizer*
 ## Dependencies
 
 - *LMOS Authenticator and Authorizer* (`auth_app_self`) <https://github.com/leismore/auth_app_self>
+- LMOS Database 1.0.0
 
 ## License
 
